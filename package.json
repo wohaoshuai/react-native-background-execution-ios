@@ -7,7 +7,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/djhr/react-native-background-execution-ios"
+    "url": "https://github.com/wohaoshuai/react-native-background-execution-ios"
   },
   "keywords": [
     "react-native-background-execution-ios",
